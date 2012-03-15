@@ -35,13 +35,9 @@ import org.brackit.xquery.xdm.Iter;
 import org.brackit.xquery.xdm.Sequence;
 
 /**
- * Load documents into the internal storage.
+ * Basic usage scenarios.
  */
 public class Simple {
-
-	enum Severity {
-		low, high, critical
-	};
 
 	public static void main(String[] args) {
 		try {

@@ -39,7 +39,7 @@ import org.brackit.xquery.compiler.CompileChain;
 import org.brackit.xquery.compiler.ModuleResolver;
 
 /**
- * Load documents into the internal storage.
+ * Importing and loading of library modules. 
  */
 public class LibraryModules {
 	
